@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am an S1-Information Systems student at AMIKOM University Yogyakarta<br>🌱 I’m currently learning and exploring Back-End Developers
+I’m currently learning and exploring Back-End Developers
 
 
 ## 🌐 Socials:
